@@ -52,8 +52,8 @@ cd chatgpt-messenger
 - requirements.txt – Python package dependency list
 - .env – API key and configuration (create it with your API key)
 - chatgpt_messenger.ico – Application icon for executable
-- memory.json – Chat memory file. Auto-generated after first run)
-- dist/ChatGTP_Messenger.exe – Standalone compiled Windows executable. (if you build it)
+- memory.json – Chat memory file. (Auto-generated after first run)
+- dist/ChatGTP_Messenger.exe – Standalone compiled Windows executable. (If you build the application)
 
 ## Notes
 - .env file should follow the format: OPENAI_API_KEY=openai-api-key-goes-here
