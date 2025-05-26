@@ -1,0 +1,12 @@
+openai
+customtkinter
+speechrecognition
+pyttsx3
+pytesseract
+pillow
+pymupdf
+python-docx
+simplejson
+pandas
+openpyxl
+python-dotenv
